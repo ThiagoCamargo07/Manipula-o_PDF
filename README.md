@@ -1,2 +1,2 @@
-# Manipula-o_PDF
+# Manipular_PDF
 Interface em Python para realizar manipulações de PDFS.
