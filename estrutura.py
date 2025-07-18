@@ -7,7 +7,7 @@ import pyautogui
 Nome = input(str("Olá \nqual é seu nome ?")).strip()
 
 resposta1 = "sim".strip().lower().upper()
-senha_adm = [123,"%TGB7181*UHB"]
+senha_adm = [123,"sua senha"]
 
 while True:
     if Nome == Nome:
