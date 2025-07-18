@@ -158,7 +158,7 @@ def tela_menu():
 
 def autenticar():
     senha = campo_senha.get()
-    if senha in ["123", "%TGB7181*UHB"]:
+    if senha in ["123", "sua senha"]:
         tela_menu()
     else:
         messagebox.showerror("Erro", "Senha incorreta!")
